@@ -34,7 +34,8 @@ This project showcases the development of a star-schema-based sales analysis dat
   - Give bonus to customers based on the profit they make.
 
 ## Files
-- [Physical Data Model]![image](https://github.com/ahmedhattem11/ETL-Data-Stage/assets/87239054/cea5819d-936d-4e03-95f1-05c9f99fda79)
+### [Physical Data Model]
+![image](https://github.com/ahmedhattem11/ETL-Data-Stage/assets/87239054/cea5819d-936d-4e03-95f1-05c9f99fda79)
 
 ## Photos 
 ### 1. Retail Sales Data Mart
